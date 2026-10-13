@@ -1,2 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>Karakuli</title></channel></rss>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Karakuli</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Tue, 13 Oct 2026 02:57:37 +0100</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/halinskiy/karakuli-updates/releases/download/v0.2.0/Karakuli-0.2.0.zip" length="3866283" type="application/octet-stream" sparkle:edSignature="GKCzC/OH9C3SUJf1TPzImL//FMe3dDjmZtbe75o9MB/Rj6J2k01wW0WkRYVyM8v4unj6AEAckq3vYtTWufYfBQ=="/>
+        </item>
+    </channel>
+</rss>
