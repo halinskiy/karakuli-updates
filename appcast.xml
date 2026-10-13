@@ -3,13 +3,29 @@
     <channel>
         <title>Karakuli</title>
         <item>
+            <title>0.3.2</title>
+            <pubDate>Tue, 13 Oct 2026 14:20:03 +0100</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/halinskiy/karakuli-updates/releases/download/v0.3.2/Karakuli-0.3.2.zip" length="3970927" type="application/octet-stream" sparkle:edSignature="6puYLHGUqLuWk9wa4VGyYkJWuHRHb9B7fOUfbZCdpxCynVC1IoVb35+waHFns9Fqf2+3nlx0QGta/13gKKXCCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/halinskiy/karakuli-updates/releases/download/v0.3.2/Karakuli25-24.delta" sparkle:deltaFrom="24" length="199874" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BH3tXyPMIcGUfn+QLQCSEWtORc4/Lc6Y8J9fPfSFpRmWoU2CxbwdKPq46kY34OwD13vm7QDDkTq3q2LGgqAoAQ=="/>
+                <enclosure url="https://github.com/halinskiy/karakuli-updates/releases/download/v0.3.2/Karakuli25-23.delta" sparkle:deltaFrom="23" length="207694" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XS1AroS3a7v3h6X5OxpGs9AwcmIEEi1hxmT6NtU/vURPeYJp81WZ7didCxKCCvgwmdDIzHNcFNeiQYc8+iXsDA=="/>
+                <enclosure url="https://github.com/halinskiy/karakuli-updates/releases/download/v0.3.2/Karakuli25-22.delta" sparkle:deltaFrom="22" length="331350" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="A2Se70/ikOt0ytfzoVOyZFpREGmp/GLI5ryxAtSX9X31Ozb9wk1BC3dEkskucVBORE5y2Eh33lZNGSCvarJZBA=="/>
+                <enclosure url="https://github.com/halinskiy/karakuli-updates/releases/download/v0.3.2/Karakuli25-21.delta" sparkle:deltaFrom="21" length="363802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pe3efGflEJgrfHcAUduY8lZkS6PbdW2A2yzwDmsABXRLA6wQ7rB/Nqgxu1yTnR/KdzfekOwJrpDoUwMgcTIGCw=="/>
+                <enclosure url="https://github.com/halinskiy/karakuli-updates/releases/download/v0.3.2/Karakuli25-20.delta" sparkle:deltaFrom="20" length="393106" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tTbdNF5JQoXCmq7636OcorPKntue5EtvMySfUfiih+MfFCq5wGn5CdxlyvbDPet/Zq6/rsga/+IMpWiYrJoHDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.1</title>
             <pubDate>Tue, 13 Oct 2026 13:33:49 +0100</pubDate>
             <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/halinskiy/karakuli-updates/releases/download/v0.3.1/Karakuli-0.3.1.zip" length="3965031" type="application/octet-stream" sparkle:edSignature="80PwWLAW8/1Dyc0759QqOCuPgZXAEIAYEgpwaCwcCnq7QfoMFx5CBHuXHgqgRO/dRBEML+3M+i3j0QsPcWHaBA=="/>
+            <enclosure url="https://github.com/halinskiy/karakuli-updates/releases/download/v0.3.2/Karakuli-0.3.1.zip" length="3965031" type="application/octet-stream" sparkle:edSignature="80PwWLAW8/1Dyc0759QqOCuPgZXAEIAYEgpwaCwcCnq7QfoMFx5CBHuXHgqgRO/dRBEML+3M+i3j0QsPcWHaBA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/halinskiy/karakuli-updates/releases/download/v0.3.1/Karakuli24-23.delta" sparkle:deltaFrom="23" length="173086" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="W90XOGeJyFJcwl+IfP2S/sHdF3EhFz6mOHxdmKHFqZ2tC4dxL8tsHSt62HsgYaCMlwJfOLKENopMYSE1jsUVCQ=="/>
                 <enclosure url="https://github.com/halinskiy/karakuli-updates/releases/download/v0.3.1/Karakuli24-22.delta" sparkle:deltaFrom="22" length="325374" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="n5wDHYko22RA77kWqyJ+mk7H7cncv8ipJhSC09+hRQWMjnX+slBUuZEhcXI8wqXtYWkstRD8Oo6GgJ4QVozKDg=="/>
@@ -24,24 +40,11 @@
             <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/halinskiy/karakuli-updates/releases/download/v0.3.1/Karakuli-0.3.0.zip" length="3964386" type="application/octet-stream" sparkle:edSignature="kPdVJ3TqT7RRYlqwO/zSFAY7j8g/3WmNGn9dIoRVruWq5BzQMahR9nBM6WV8tqu+vzuRU1WGx1Y5KrYP9CJ8Bw=="/>
+            <enclosure url="https://github.com/halinskiy/karakuli-updates/releases/download/v0.3.2/Karakuli-0.3.0.zip" length="3964386" type="application/octet-stream" sparkle:edSignature="kPdVJ3TqT7RRYlqwO/zSFAY7j8g/3WmNGn9dIoRVruWq5BzQMahR9nBM6WV8tqu+vzuRU1WGx1Y5KrYP9CJ8Bw=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/halinskiy/karakuli-updates/releases/download/v0.3.0/Karakuli23-22.delta" sparkle:deltaFrom="22" length="321222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="V1u7Nm6XqNnyESNUHc8CV7Lm+FyVhWgTugTjuYiQ1l9/Vbv7SjTIDsJwsJ9mtRuPxg8JQZCUkAGOuxdRn0wVDw=="/>
                 <enclosure url="https://github.com/halinskiy/karakuli-updates/releases/download/v0.3.0/Karakuli23-21.delta" sparkle:deltaFrom="21" length="349090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="l4UAHCx6HtmR76zr5VJmKoPN5ZtfrwH4xKFtc38oyO1+T4lGr/MPIghTsrJqJyaqXtHIDZAvXtIfxbwE9fibAg=="/>
                 <enclosure url="https://github.com/halinskiy/karakuli-updates/releases/download/v0.3.0/Karakuli23-20.delta" sparkle:deltaFrom="20" length="389614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="E8lHiGpfpmf95Y1Mj2vyUqUqkIaELAofSxl6SqLs+8IBZwkMjUXwTb4Vv9yEYbo3oO7eIXvcKLL9hEe0dp3bBQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.2</title>
-            <pubDate>Tue, 13 Oct 2026 11:23:01 +0100</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/halinskiy/karakuli-updates/releases/download/v0.3.1/Karakuli-0.2.2.zip" length="3918564" type="application/octet-stream" sparkle:edSignature="uSZ05l6qwsNxUi1Ra3npsbAoOBlAN9O4RVf0vwbBcXsQ7JNdhM0yLZEI5C/1mgSYTxx6RFe+XjXXK/MASmzMBw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/halinskiy/karakuli-updates/releases/download/v0.2.2/Karakuli22-21.delta" sparkle:deltaFrom="21" length="278438" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7+2mp5ShPPhBjNIM51JaJ/F3MJ16o+PEMdGf4JNouJITB/U6laAG82GgMbgyNd65+SO53s+kE5F/q3W29abOBA=="/>
-                <enclosure url="https://github.com/halinskiy/karakuli-updates/releases/download/v0.2.2/Karakuli22-20.delta" sparkle:deltaFrom="20" length="315610" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="z7oqgC/cMr6SGic5AsKg4NLf2XDR8Aebl61tw827UG081fUNqlkZRfeT2MRKybysHYVDJ52enLHUWNSlf63aCg=="/>
             </sparkle:deltas>
         </item>
     </channel>
