@@ -1,6 +1,6 @@
-# karakuli-updates
+# qeepl-updates
 
-Sparkle update feed and release artifacts for Karakuli, a private macOS app (infinite zoomable canvas for terminals, browsers and notes).
+Sparkle update feed and release artifacts for Qeepl, a private macOS app (infinite zoomable canvas for terminals, browsers and notes).
 
-- Feed: https://halinskiy.github.io/karakuli-updates/appcast.xml (gh-pages)
-- Install: download `Karakuli-<version>.dmg` from Releases, drag Karakuli into Applications. Updates then arrive automatically (the feed serves zips + deltas).
+- Feed: https://halinskiy.github.io/qeepl-updates/appcast.xml (gh-pages)
+- Latest build: Releases
